@@ -333,6 +333,41 @@
                  "width":50.2727272727272,
                  "x":438.484848484849,
                  "y":96.3333333333333
+                }, 
+                {
+                 "class":"area",
+                 "height":51.500179018976,
+                 "id":19,
+                 "name":"openWebsiteGWA",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gwa-stpauli.de\/"
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":30.1897601145722,
+                 "x":35.5173648406731,
+                 "y":264.604368063015
+                }, 
+                {
+                 "class":"",
+                 "height":45.6380236305048,
+                 "id":25,
+                 "name":"",
+                 "rotation":0,
+                 "text":
+                    {
+                     "fontfamily":"Consolas",
+                     "pixelsize":25,
+                     "text":"Digitale Nachbarschaft",
+                     "wrap":true
+                    },
+                 "visible":true,
+                 "width":389.880415324024,
+                 "x":249.914786967419,
+                 "y":489.518976011457
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -405,7 +440,7 @@
          "y":0
         }],
  "nextlayerid":51,
- "nextobjectid":18,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -422,7 +457,7 @@
          "name":"mapImage",
          "type":"string",
          "value":"map.png"
-        },
+        }, 
         {
          "name":"mapName",
          "type":"string",
@@ -431,7 +466,7 @@
         {
          "name":"script",
          "type":"string",
-         "value":"/src\/main.ts"
+         "value":"\/src\/main.ts"
         }],
  "renderorder":"right-down",
  "tiledversion":"1.9.2",
