@@ -1,3 +1,5 @@
+Preview for this Version: https://ut.github.io/workadventure-playground/
+
 # WorkAdventure Map Starter Kit
 
 ![map](./maps/map.png)
